@@ -35,3 +35,4 @@ Ensure you have Node.js and React Native environment set up on your machine. The
 
    ```bash
    cd client
+3. Read the README.md file located in that directory
